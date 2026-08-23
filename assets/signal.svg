@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="">
+  <defs>
+    <linearGradient id="trail" x1="0" x2="1">
+      <stop offset="0" stop-color="#2a1013" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#6b1f27" stop-opacity="0.45"/>
+      <stop offset="0.5" stop-color="#c49561" stop-opacity="0.9"/>
+      <stop offset="0.55" stop-color="#6b1f27" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#2a1013" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 12H1200" stroke="#3a2022" stroke-width="1"/>
+  <rect x="-360" y="11" width="360" height="2" rx="1" fill="url(#trail)">
+    <animate attributeName="x" from="-360" to="1200" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
