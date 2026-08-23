@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Two masked S.Y.L.V.A operatives outside a red-lit concrete facility" />
+  <img src="./assets/banner.webp" width="100%" alt="Two masked S.Y.L.V.A operatives outside a red-lit concrete facility" />
 </p>
 
 <p align="center">
