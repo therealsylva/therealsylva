@@ -8,7 +8,11 @@
 
 <h2 align="center">Founder &amp; Developer</h2>
 
-## Selected work
+## Le Мasterpiece
+
+<p align="center">
+  <img src="./assets/cta-banner.jpg" width="100%" alt="Code Trade Action" />
+</p>
 
 <table>
   <tr>
