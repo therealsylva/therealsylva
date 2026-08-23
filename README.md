@@ -2,15 +2,15 @@
   <img src="./assets/banner.jpg" width="100%" alt="A quiet noir office overlooking the city at night" />
 </p>
 
-<h1 align="center">Sylva</h1>
-
 <p align="center">
-  Founder and software engineer.
+  <img src="./assets/sylva-terminal.png" width="430" alt="SYLVA" />
 </p>
 
-<p align="center">
+<h3 align="center">Founder and software engineer.</h3>
+
+<h4 align="center">
   <code>Rust</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Go</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>TypeScript</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Linux</code>
-</p>
+</h4>
 
 ## Selected work
 
