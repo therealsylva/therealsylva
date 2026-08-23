@@ -6,11 +6,7 @@
   <img src="./assets/sylva-terminal.png" width="430" alt="SYLVA" />
 </p>
 
-<h3 align="center">Founder and software engineer.</h3>
-
-<h4 align="center">
-  <code>Rust</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Go</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>TypeScript</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Linux</code>
-</h4>
+<h2 align="center">Founder &amp; Developer</h2>
 
 ## Selected work
 
