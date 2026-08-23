@@ -5,18 +5,12 @@
 <h1 align="center">Sylva</h1>
 
 <p align="center">
-  Founder and systems engineer working across distributed infrastructure, security tooling, developer platforms, and real-world markets.
+  Founder and software engineer.
 </p>
 
 <p align="center">
   <code>Rust</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Go</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>TypeScript</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Linux</code>
 </p>
-
-<br />
-
-I build ambitious systems from the protocol upward: the underlying model, the backend, the command-line experience, and the interface people actually use.
-
-My current work centres on **Blackbook**, a market for trading long-term indices of real-world performance, and **Qchain**, a distributed credential-storage network with an offline cryptographic core.
 
 ## Selected work
 
@@ -58,13 +52,6 @@ My current work centres on **Blackbook**, a market for trading long-term indices
     </td>
   </tr>
 </table>
-
-## How I work
-
-- Start with the system and its constraints, then make the interface feel simple.
-- Prefer local-first tools, explicit behaviour, and software that can be inspected.
-- Treat security as part of the architecture—not a layer added at the end.
-- Build the complete path from idea to working product.
 
 <br />
 
